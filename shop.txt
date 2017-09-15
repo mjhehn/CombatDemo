@@ -1,0 +1,63 @@
+Cost: 50 Gold :
+1. Knife :
+ @ Damage: 5-5 : :
+2. Rapier :
+ @ Damage: 4-7 : :
+3. Sword :
+ @ Damage: 2-10 : : :
+
+Cost: 150 Gold :
+4. Sharp Knife : 
+ @ Damage: 8-9 : :
+5. Sharpened Rapier :
+ @ Damage: 7-11 : :
+6. Balanced Sword :
+ @ Damage: 9-16 : : :
+
+Cost: 240 Gold :
+7. ROFL Knife :
+ @ Damage: 12-14 : :
+8. Enchanted Rapier :
+ @ Damage: 12-18 : :
+9. Magic Sword :
+ @ Damage: 10-20 : : :
+
+Cost: 400 Gold :
+10. Scyfle :
+ @ Damage: 4-28 :
+
+ : : Armor: : 
+Cost: 100 Gold :
+11. Leather Armor :
+ @ Defense = 2 :
+ @ Durability = 4 : :
+
+Cost: 200 Gold :
+12. Chainmail :
+ @ Defense = 2 :
+ @ Durability = 8 : :
+
+Cost: 300 Gold :
+13. Plate Armor :
+ @ Defense = 4 :
+ @ Durability = 12 : :
+
+Cost: 300 Gold :
+14. Magic Armor :
+ @ Defense = 12 :
+ @ Durability = 4 : :
+
+Cost: 500 Gold :
+15. Dragonskin Armor :
+ @ Defense = 3 :
+ @ Durability = 20 : :
+
+Cost: 600 Gold :
+16. Otherworldly Armor :
+ @ Defense = 6 :
+ @ Durability = 15 : :
+
+Cost: 700 Gold :
+17. Aeglis Armor :
+ @ Defense = 8 :
+ @ Durability = 30 : :
